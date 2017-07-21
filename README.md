@@ -28,3 +28,5 @@ I sometimes sturggle finding out the best way to name things in CSS. So I have d
 - [Ahlberg Bil](https://www.ahlbergbil.se/)
 - [phmuseum](https://phmuseum.com/)
 - [CharityBank](https://charitybank.org/)
+- [Obama.org](https://www.obama.org/)
+- [Loaf.com](http://loaf.com/)
