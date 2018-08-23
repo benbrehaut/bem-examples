@@ -1,7 +1,7 @@
 # BEM Examples
 A list of websites using the BEM methodology for naming their CSS.
 
-I sometimes sturggle finding out the best way to name things in CSS. So I have decided to make a list of sites that us BEM<small>*</small> for futute reference.
+I sometimes sturggle finding out the best way to name things in CSS. So I have decided to make a list of sites that us BEM<small>*</small> for future reference.
 
 *This includes site that use their own version of BEM naming.
 
