@@ -1,3 +1,5 @@
+**🔨 PRs welcomed!**
+
 # BEM Examples
 A list of websites using the BEM methodology for naming their CSS.
 
